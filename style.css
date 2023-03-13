@@ -20,7 +20,7 @@ body {
 }
 
 .background {
-  background-image: url(/jsproject3/images/book.jpg);
+  background-image: url(/images/book.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
